@@ -22,6 +22,36 @@
 
 **What this repository is:** a public product portfolio, not the application source code. It documents decisions, delivery work, and a representative feature. It contains no family records, private conversations, credentials, or internal legal documents.
 
+## Product evolution in pictures
+
+These screenshots were captured from the two supplied application archives, rendered locally on October 2, 2026. The historical dashboard uses the original app's built-in sample team. The family screens use the supplied UI components with a disconnected, fictional family fixture. They illustrate interface design, not production usage or verified AI/backend behavior. No live account was accessed. Fonts may differ slightly from the hosted app because external requests were blocked during capture.
+
+### Then: a coach's team-readiness view
+
+![Original FullGo coach readiness dashboard with built-in sample team](images/team-dashboard.png)
+
+**Original coach platform — built-in demo data.** Readiness summaries, roster status, training context, and alerts make a team's reported signals visible before practice. The discovery challenge was getting busy staff and athletes to adopt another recurring workflow.
+
+### Now: a parent's place to ask for perspective
+
+![Current FullGo Guide front door with a fictional athlete](images/family-guide.png)
+
+**Current family product — local sample-data preview.** The Guide becomes the primary action; a quiet Compass Check remains secondary. The family can begin with a question rather than committing to nightly reporting.
+
+### Reducing the blank-page problem
+
+![FullGo conversation screen with suggested opening questions](images/family-conversation.png)
+
+**Current conversation entry — local sample-data preview.** Suggested questions make the first interaction approachable. The interface explains that conversation does not automatically change the child's Journey and that the Guide does not diagnose. This image shows entry to the conversation, not a generated AI answer.
+
+### Preserving meaning rather than tracking every activity
+
+![FullGo Journey memory presentation with fictional monthly reflection](images/family-journey.png)
+
+**Current Journey presentation — local sample-data preview.** A fictional monthly reflection demonstrates the memory-oriented layout. The gradient is the application's existing no-photo fallback. The reflection was supplied as a display fixture, not generated from real family activity.
+
+[How these previews were captured](docs/screenshot-notes.md)
+
 ## 1. The original hypothesis: make readiness useful to teams
 
 My background in physical therapy, sports, coaching, and practice ownership gave me firsthand experience with the gap between what athletes experience and what others can observe. Fatigue, confidence, recovery, and a changing relationship with sport are not always visible in a game result.
